@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/diplom-rabota/static/css/main.6afeb1fc.css",
+    "main.js": "/diplom-rabota/static/js/main.d7f194ab.js",
+    "static/media/Logo.jpeg": "/diplom-rabota/static/media/Logo.03cae802f0e96a1ec335.jpeg",
+    "static/media/inst.png": "/diplom-rabota/static/media/inst.e719d8b29f452a16302d.png",
+    "static/media/Fbook.png": "/diplom-rabota/static/media/Fbook.9453f56541f50c3a1ec8.png",
+    "static/media/teleg.png": "/diplom-rabota/static/media/teleg.e9722f26cc228e817986.png",
+    "index.html": "/diplom-rabota/index.html",
+    "main.6afeb1fc.css.map": "/diplom-rabota/static/css/main.6afeb1fc.css.map",
+    "main.d7f194ab.js.map": "/diplom-rabota/static/js/main.d7f194ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6afeb1fc.css",
+    "static/js/main.d7f194ab.js"
+  ]
+}
