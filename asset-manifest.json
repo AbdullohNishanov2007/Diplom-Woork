@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/diplom-rabota/static/css/main.6afeb1fc.css",
-    "main.js": "/diplom-rabota/static/js/main.d7f194ab.js",
-    "static/media/Logo.jpeg": "/diplom-rabota/static/media/Logo.03cae802f0e96a1ec335.jpeg",
-    "static/media/inst.png": "/diplom-rabota/static/media/inst.e719d8b29f452a16302d.png",
-    "static/media/Fbook.png": "/diplom-rabota/static/media/Fbook.9453f56541f50c3a1ec8.png",
-    "static/media/teleg.png": "/diplom-rabota/static/media/teleg.e9722f26cc228e817986.png",
-    "index.html": "/diplom-rabota/index.html",
-    "main.6afeb1fc.css.map": "/diplom-rabota/static/css/main.6afeb1fc.css.map",
-    "main.d7f194ab.js.map": "/diplom-rabota/static/js/main.d7f194ab.js.map"
+    "main.css": "/AbdullohNishanov2007/Diplom-Work/static/css/main.6afeb1fc.css",
+    "main.js": "/AbdullohNishanov2007/Diplom-Work/static/js/main.5080d505.js",
+    "static/media/Logo.jpeg": "/AbdullohNishanov2007/Diplom-Work/static/media/Logo.03cae802f0e96a1ec335.jpeg",
+    "static/media/inst.png": "/AbdullohNishanov2007/Diplom-Work/static/media/inst.e719d8b29f452a16302d.png",
+    "static/media/Fbook.png": "/AbdullohNishanov2007/Diplom-Work/static/media/Fbook.9453f56541f50c3a1ec8.png",
+    "static/media/teleg.png": "/AbdullohNishanov2007/Diplom-Work/static/media/teleg.e9722f26cc228e817986.png",
+    "index.html": "/AbdullohNishanov2007/Diplom-Work/index.html",
+    "main.6afeb1fc.css.map": "/AbdullohNishanov2007/Diplom-Work/static/css/main.6afeb1fc.css.map",
+    "main.5080d505.js.map": "/AbdullohNishanov2007/Diplom-Work/static/js/main.5080d505.js.map"
   },
   "entrypoints": [
     "static/css/main.6afeb1fc.css",
-    "static/js/main.d7f194ab.js"
+    "static/js/main.5080d505.js"
   ]
 }
